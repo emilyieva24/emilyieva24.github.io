@@ -1,0 +1,28 @@
+:root {
+  --bg-dark: #26352d;
+  --bg-deep: #1f2822;
+  --brown: #5a4338;
+  --cream: #f3efe6;
+  --green-light: #9fbe7a;
+  --green-mid: #6f8d5f;
+  --blackberry: #70465f;
+}
+
+body { 
+  margin: 0;
+  background-color: var(--bg-dark);
+  color: var(--cream);
+  font-family: "Assistant", sans-serif;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: "Yeseva One", serif;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+}
+
+p { 
+  max-width: 800px;

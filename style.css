@@ -39,8 +39,7 @@ p {
 
 .site-nav {
   display: flex;
-  justify content: flex-end;
-  gap: 32px;
+  justify content: space-between;
   padding: 24px 8%;
 }
 

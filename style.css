@@ -56,5 +56,19 @@ p {
   color: var(--blackberry);
 }
 
+/* PROJECT GRID */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+
+.project-card {
+  padding: 24px;
+  background-color: var(--bg-deep);
+}
+
+
 
 

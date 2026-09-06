@@ -98,5 +98,28 @@ p {
   height: auto;
 }
 
+.map-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 32px;
+}
 
+.map-gallery figure {
+  margin: 0;
+}
+
+.map-gallery img {
+  width: 100%; 
+  height: auto;
+  display: block;
+}
+
+.map-gallery figcaption {
+  margin-top: 8px;
+  text-align: center;
+  font-weight: 600;
+}
+
+
+  
 

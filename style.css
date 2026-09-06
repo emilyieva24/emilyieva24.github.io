@@ -85,3 +85,18 @@ p {
 }
 
 
+/* PROJECT PAGES */
+
+.project-intro {
+  font-size: 1.2rem;
+  max-width: 900px;
+}
+
+.project-map {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+}
+
+
+

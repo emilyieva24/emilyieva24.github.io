@@ -75,5 +75,9 @@ p {
   object-fit: cover;
 }
 
+.project-card img {
+  min-height: 120px;
+}
+
 
 

@@ -137,5 +137,17 @@ p {
 .project-documents a:hover {
   color: var(--green-light);
 }
+
+.workflow-figure {
+  margin: 32px 0;
+  text-align: center;
+}
+
+.workflow-figure img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+}
+
   
 

@@ -150,6 +150,8 @@ p {
   cursor: zoom-in;
 }
 
+/* THREE MAP COLUMN GALLERY */
+
 .map-gallery-three {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -164,6 +166,23 @@ p {
   width: 100%;
   height: auto;
   display: block;
-  cursor: zoom-in;
+}
+
+/* STACKED CHART GALLERY */
+
+.chart-gallery {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+}
+
+.chart-gallery figure {
+  margin: 0;
+}
+
+.chart-gallery img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 

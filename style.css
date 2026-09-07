@@ -150,5 +150,20 @@ p {
   cursor: zoom-in;
 }
 
-  
+.map-gallery-three {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 32px;
+}
+
+.map-gallery-three figure {
+  margin: 0;
+}
+
+.map-gallery-three img {
+  width: 100%;
+  height: auto;
+  display: block;
+  cursor: zoom-in;
+}
 

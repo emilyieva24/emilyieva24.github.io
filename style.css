@@ -71,6 +71,7 @@ p {
 .project-card {
   padding: 24px;
   background-color: var(--bg-deep);
+  min-height: 220px;
 }
 
 .project-card img {

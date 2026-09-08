@@ -40,7 +40,7 @@ p {
 .site-nav {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 24px 8%;
+  padding: 36px 8%;
   display: flex;
   justify-content: space-between;
 }
@@ -269,5 +269,11 @@ p {
   background-color: var(--brown);
 }
   
+/* SITE HEADER */
+
+.site-header {
+  background-color: var(--blackberry);
+}
+
 
 

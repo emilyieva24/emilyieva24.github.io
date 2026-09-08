@@ -263,7 +263,7 @@ p {
 }
 
 .technical-link {
-  color: var(--cream);
+  color: inherit;
   text-decorations: none;
 }
 

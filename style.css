@@ -285,4 +285,17 @@ p {
   text-align: center;
 }
 
+/* HOME PAGE */
+
+.home-photo {
+  float: right;
+  width: auto;
+  height: auto;
+  margin-left: 32px;
+  margin-bottom: 20px;
+}
+
+.home-intro p {
+  max-width: none;
+}
 

@@ -186,3 +186,55 @@ p {
   display: block;
 }
 
+/* TECHNICAL WORK MAP STACK */
+
+.technical-map-stack {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+}
+
+.technical-map-stack figure {
+  margin: 0;
+}
+
+.technical-map-stack img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.technical-map-stack figcaption {
+  margin-top: 8px;
+  font-size: 0.95rem;
+  text-align: left;
+}
+
+
+/* ESRI TUT CREDIT */
+
+.tutorial-credit {
+  max-width: 900px;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--green-light);
+}
+
+.tutorial-credit a {
+  color: inherit;
+}
+
+.tutorial-credit a:hover {
+  color: var(--cream);
+}
+
+/* DATA CREDIT */
+
+.data-credit {
+  max-width: 900px;
+  font-size: 0.9rem;
+}
+
+
+
+

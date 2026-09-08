@@ -247,7 +247,6 @@ p {
 .technical-card {
   padding: 28px;
   background-color: var(--blackberry);
-  min-height: 150px;
 }
 
 .technical-card h3 {

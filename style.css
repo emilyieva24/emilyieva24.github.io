@@ -79,9 +79,6 @@ p {
   object-fit: cover;
 }
 
-.project-card img {
-  min-height: 120px;
-}
 
 .project-link {
   color: inherit;
@@ -264,7 +261,7 @@ p {
 
 .technical-link {
   color: inherit;
-  text-decorations: none;
+  text-decoration: none;
 }
 
 .technical-card:hover {

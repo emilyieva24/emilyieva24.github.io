@@ -275,5 +275,14 @@ p {
   background-color: var(--blackberry);
 }
 
+/* SITE FOOTER */
+
+.site-footer {
+  background-color: var(--brown);
+  color: var(--cream);
+  padding: 24px 8%;
+  margin-top: 60px;
+  text-align: center;
+}
 
 

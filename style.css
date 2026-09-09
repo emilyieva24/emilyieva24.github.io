@@ -49,9 +49,9 @@ p {
 .site-nav a {
   color: var(--cream);
   text-decoration: none;
-  font-family: "Assistant", sans-serif;
-  font-weight: 600;
-  font-size: 20px;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  font-size: 25px;
 
   background-color: var(--blackberry);
   padding: 8px 14px;

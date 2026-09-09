@@ -287,6 +287,12 @@ p {
   text-align: center;
 }
 
+.site-footer p {
+  max-wdith: none;
+  margin: 0;
+}
+  
+
 /* HOME PAGE */
 
 .home-photo {

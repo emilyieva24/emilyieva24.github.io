@@ -249,7 +249,7 @@ p {
 
 .technical-card {
   padding: 28px;
-  background-color: var(--green-light);
+  background-color: var(--bg-deep);
   min-height: 100px;
 }
 

@@ -53,12 +53,12 @@ p {
   font-weight: 600;
   font-size: 25px;
 
-  background-color: var(--blackberry);
+  background-color: var(--brown);
   padding: 8px 14px;
 }
 
 .site-nav a:hover {
-  background-color: var(--brown);
+  background-color: var(--blackberry);
   color: var(--cream);
 }
 

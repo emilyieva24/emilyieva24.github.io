@@ -309,5 +309,18 @@ p {
 
 /* SITE ACCENTS */
 
+/* RESUME */
 
+.resume-pages {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 32px;
+  margin-bottom: 40px;
+}
+
+.resume-pages img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
   

@@ -320,8 +320,7 @@ p {
 
 .resume-pages img {
   width: 100%;
-  height: 800px;
-  max-width: auto;
+  height: auto;
   display: block;
 }
   
